@@ -13,8 +13,9 @@
 #ifndef PLATFORM_TYPES_H
 #define PLATFORM_TYPES_H
 
-/* Id for the company in the AUTOSAR
- * for example Mohamed Tarek's ID = 1000 :) */
+/* 
+Id for the company in the AUTOSAR
+ */
 #define PLATFORM_VENDOR_ID                          (1000U)
 
 /*

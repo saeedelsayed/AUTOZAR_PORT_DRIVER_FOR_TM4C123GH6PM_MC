@@ -12,8 +12,9 @@
 #ifndef DET_H
 #define DET_H
 
-/* Id for the company in the AUTOSAR
- * for example Mohamed Tarek's ID = 1000 :) */
+/* 
+Id for the company in the AUTOSAR
+ */
 #define DET_VENDOR_ID                 (1000U)
 
 /* Det Module Id */
